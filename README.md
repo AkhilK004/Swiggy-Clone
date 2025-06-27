@@ -61,6 +61,30 @@ A fully responsive frontend clone of the Swiggy food delivery platform, built us
  "https://cors-anywhere.herokuapp.com/"
 
 
+ ## 📥 How to Import or Run the Project Locally
+
+Follow these steps to import and run the Swiggy Clone project on your machine:
+
+---
+
+### 🔧 Requirements
+
+- **Node.js** and **npm** installed  
+  👉 [Download Node.js](https://nodejs.org/)
+
+---
+
+### 🛠️ Steps to Import the Project
+
+ **Clone the Repository**
+
+```bash
+git clone https://github.com/AkhilK004/Swiggy.git
+cd swiggy-clone-frontend
+npm install
+parcel index.html 
+
+
 
 
 
